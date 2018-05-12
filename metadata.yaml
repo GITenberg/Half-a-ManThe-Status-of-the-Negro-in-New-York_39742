@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36204
     wikipedia: http://en.wikipedia.org/wiki/Mary_White_Ovington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39742#Half-a-ManThe-Status-of-the-Negro-in-New-York
 gutenberg_issued: '2012-05-20'
 gutenberg_type: Text
 identifiers:
