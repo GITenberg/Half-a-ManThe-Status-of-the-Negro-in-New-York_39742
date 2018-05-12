@@ -1,0 +1,37 @@
+_repo: Half-a-ManThe-Status-of-the-Negro-in-New-York_39742
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Boas, Franz
+    alias: Boaz, Franz
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '40195'
+    url: http://www.gutenberg.org/2009/agents/40195
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Boas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ovington, Mary White
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '36204'
+    url: http://www.gutenberg.org/2009/agents/36204
+    wikipedia: http://en.wikipedia.org/wiki/Mary_White_Ovington
+description: ''
+gutenberg_issued: '2012-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39742'
+  lccn: '11016291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'African Americans -- New York (State) -- New York'
+title: 'Half a Man: The Status of the Negro in New York'
+url: http://www.gutenberg.org/ebooks/39742
